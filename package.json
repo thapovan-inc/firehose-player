@@ -1,0 +1,13 @@
+{
+  "name": "firehose-player",
+  "version": "1.0.0",
+  "description": "For recording and playing firehose events",
+  "author": "Sriram Damodharan <sdamodharan@thapovan-inc.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@webng/firehose": "^1.1.0",
+    "command-line-args": "^4.0.4",
+    "minimist": "^1.2.0",
+    "msgpack-lite": "^0.1.26"
+  }
+}
