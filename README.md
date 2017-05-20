@@ -18,6 +18,6 @@ CLI app to record and replay firehose topics/streams. Uses msgpack and gzip to a
     --output            Optional. When specified, it must be an URL. Defaults to stdout.
 ```
 
-## Usage:
+## Usage example:
 
 `node main.js --mode record --topic prod-firehose-userinfohighvalue --zookeeper-host 127.0.0.1 --file-dir ./data`
