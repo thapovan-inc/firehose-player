@@ -8,6 +8,7 @@
     "@webng/firehose": "^1.1.0",
     "command-line-args": "^4.0.4",
     "minimist": "^1.2.0",
-    "msgpack-lite": "^0.1.26"
+    "msgpack-lite": "^0.1.26",
+    "request": "^2.81.0"
   }
 }
